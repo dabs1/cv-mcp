@@ -5,6 +5,9 @@
   "description": "MCP server (stdio) that exposes Tomás Francisco's CV, read from a backend API",
   "author": "Tomás Francisco",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabs1/cv-mcp.git"},
   "type": "module",
   "bin": { "cv-mcp": "build/index.js" },
   "engines": { "node": ">=18" },
